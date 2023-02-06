@@ -1,0 +1,2 @@
+This file is created just in the branch1 
+Not in the Master
